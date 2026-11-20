@@ -1,0 +1,3 @@
+# YYYY-MM-DD, comparator, weather value, quote ceiling, maximum size
+2026-11-20, >=, 10, 0.55, 5
+

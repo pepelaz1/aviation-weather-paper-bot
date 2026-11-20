@@ -1,0 +1,13 @@
+{
+  "station": "KMCI",
+  "weather_field": "temp",
+  "min_request_interval_seconds": 2,
+  "rules_reload_seconds": 30,
+  "groups": [
+    {"name": "group-1", "minutes": [0], "window_seconds": 12, "poll_seconds": 2},
+    {"name": "group-2", "minutes": [15], "window_seconds": 12, "poll_seconds": 2},
+    {"name": "group-3", "minutes": [30], "window_seconds": 12, "poll_seconds": 2},
+    {"name": "group-4", "minutes": [45], "window_seconds": 12, "poll_seconds": 2}
+  ]
+}
+
